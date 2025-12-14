@@ -1,5 +1,6 @@
-🌍 Language Detection Using Deep Learning (PyTorch)
-📌 Project Description
+# 🌍 Language Detection Using Deep Learning (PyTorch)
+
+## 📌 Project Description
 
 This project implements a Language Detection System that automatically identifies the language of a given text using Natural Language Processing (NLP) and Deep Learning with PyTorch.
 
@@ -7,7 +8,7 @@ The model is trained on multilingual text data and is capable of accurately clas
 
 This project demonstrates practical skills in NLP, deep learning model design, multi-class classification, and PyTorch-based implementation, making it suitable for academic learning and portfolio presentation.
 
-🚀 Features
+## 🚀 Features
 
 Automatically detects the language of input text
 
@@ -21,7 +22,7 @@ Includes model training, testing, and evaluation
 
 Supports saving and loading trained models
 
-🧠 Supported Languages
+## 🧠 Supported Languages
 
 English
 
@@ -57,7 +58,7 @@ Greek
 
 Hindi
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -71,7 +72,7 @@ Scikit-learn
 
 Natural Language Processing (NLP)
 
-📊 Model Architecture
+## 📊 Model Architecture
 
 The neural network architecture consists of:
 
@@ -85,7 +86,7 @@ Dropout layers for regularization
 
 Softmax output layer for multi-class classification
 
-🎯 Applications
+## 🎯 Applications
 
 Language identification systems
 
@@ -95,6 +96,6 @@ NLP preprocessing pipelines
 
 AI-powered chat and text analysis applications
 
-📌 Notes
+## 📌 Notes
 
-Due to GitHub file size limitations, large trained model files are not included in this repository. Instructions or external links are provided to download the trained model if required.
+** Due to GitHub file size limitations, large trained model files are not included in this repository. Instructions or external links are provided to download the trained model if required. **
