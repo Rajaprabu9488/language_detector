@@ -1,26 +1,27 @@
-🌍 Language Detection using Deep Learning (PyTorch)
+🌍 Language Detection Using Deep Learning (PyTorch)
+📌 Project Description
 
-This project implements a Language Detection system that automatically identifies the language of a given text input using Natural Language Processing (NLP) and a Neural Network built with PyTorch.
+This project implements a Language Detection System that automatically identifies the language of a given text using Natural Language Processing (NLP) and Deep Learning with PyTorch.
 
-The model is trained on multilingual text data and can accurately classify sentences into multiple languages.
+The model is trained on multilingual text data and is capable of accurately classifying sentences into multiple languages. The project covers the complete machine learning workflow, including text preprocessing, feature vectorization, neural network training, evaluation, and prediction.
+
+This project demonstrates practical skills in NLP, deep learning model design, multi-class classification, and PyTorch-based implementation, making it suitable for academic learning and portfolio presentation.
 
 🚀 Features
 
-Detects language from short and long text inputs
+Automatically detects the language of input text
 
 Supports multiple languages
 
-Built using PyTorch Neural Networks
+Built using PyTorch neural networks
 
-Uses text preprocessing and vectorization
+Implements text preprocessing and vectorization
 
-Trained and evaluated with train–test split
+Includes model training, testing, and evaluation
 
-Model saving and loading supported
+Supports saving and loading trained models
 
-🧠 Languages Supported
-
-The model can detect the following languages:
+🧠 Supported Languages
 
 English
 
@@ -56,7 +57,7 @@ Greek
 
 Hindi
 
-🛠️ Tech Stack
+🛠️ Technologies Used
 
 Python
 
@@ -72,36 +73,28 @@ Natural Language Processing (NLP)
 
 📊 Model Architecture
 
-Input Layer (Text Vector)
+The neural network architecture consists of:
 
-Fully Connected Hidden Layers
+Input layer for text features
 
-ReLU Activation
+Fully connected hidden layers
 
-Dropout for regularization
+ReLU activation functions
 
-Output Layer with Softmax activation
+Dropout layers for regularization
 
-🧪 Example Prediction
-Input: "Hola, ¿cómo estás?"
-Output: Spanish
+Softmax output layer for multi-class classification
 
-🎯 Use Cases
-
-Multilingual text classification
+🎯 Applications
 
 Language identification systems
 
+Multilingual text classification
+
 NLP preprocessing pipelines
 
-AI-powered chat applications
+AI-powered chat and text analysis applications
 
-📌 Future Improvements
+📌 Notes
 
-Add more languages
-
-Use Transformer-based models (BERT)
-
-Improve accuracy on short texts
-
-Deploy as a REST API using Flask/FastAPI
+Due to GitHub file size limitations, large trained model files are not included in this repository. Instructions or external links are provided to download the trained model if required.
